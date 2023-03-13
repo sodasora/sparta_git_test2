@@ -1,0 +1,6 @@
+creates "a.txt"
+
+this creates "a.txt"
+Hello sparta!
+
+
